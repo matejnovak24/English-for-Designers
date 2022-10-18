@@ -2,4 +2,4 @@
 
 Work in progress classwork.
 
-– [Alternative Text] (01-alternative-text/)
+- [Alternative Text] (01-alternative-text/)
