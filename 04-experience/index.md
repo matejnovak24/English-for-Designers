@@ -1,6 +1,6 @@
 # Experience
 
-View CV/résumé PDF
+[View CV/résumé PDF](images/Novak_resume)
 
 – – –
 
