@@ -18,4 +18,4 @@ contact: matej.novak24@seznam.cz
 
 ## Extra
 
-- [Takeways](takeaways)
+- [Takeaways](takeaways)
