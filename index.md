@@ -6,7 +6,7 @@ contact: matej.novak24@seznam.cz
 
 ## About Me
 
-- CV
+- [CV](001-CV)
 - Portfolio
 
 ## Classwork
