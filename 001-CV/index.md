@@ -1,3 +1,3 @@
-# Curiculum vitae
+# Curriculum vitae
 
-![Letter S, skiers, skiing]
+![Curriculum vitae, work, eperience, résumé.](Novak_resume.pdf)
