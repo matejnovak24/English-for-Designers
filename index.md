@@ -1,6 +1,8 @@
-# Hi I’m Matěj
+# Hi, I’m Matej😎
 
-You can look at some of my work or learn something about me here.
+… and I love doing graphics and thinking creatively, tailored to your needs! You can look at some of my work or learn something about me here.
+
+contact: matej.novak24@seznam.cz
 
 ## About Me
 
