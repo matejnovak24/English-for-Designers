@@ -12,7 +12,7 @@ contact: matej.novak24@seznam.cz
 ## Classwork
 
 - [Alternative Text](01-alternative-text)
-- First impression
+- [First impression](02-first-impression)
 - Experience
 - Voice and Tone
 
