@@ -1,5 +1,7 @@
 # Alternative Text
 
-![This is where your alternative text description goes.](S.jpg)
+![Letter S, skiers, skiing.](S.jpg)
 
-**Alt text:** `This is where your alternative text goes.`
+
+
+![Letter C, clock, time.](C.jpg)
