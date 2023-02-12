@@ -6,18 +6,16 @@ contact: matej.novak24@seznam.cz
 
 ## About Me
 
-- My Story
-- CV/résumé
-- Voice, Tone and Style guide
-- contact: matej.novak24@seznam.cz
+- CV
+- Portfolio
 
-## Case Study
-
-- Mindstalk - Logo making
-- Project Presentation
-
-## Extras
+## Classwork
 
 - [Alternative Text](01-alternative-text)
-- First Impresion 
+- First impression
+- Experience
+- Voice and Tone
+
+## Extra
+
 - [Takeways](takeaways)
