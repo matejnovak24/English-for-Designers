@@ -14,7 +14,7 @@ contact: matej.novak24@seznam.cz
 - [Alternative Text](01-alternative-text)
 - [First impression](02-first-impression)
 - [Experience](03-experience)
-- [Voice and Tone](04-voice-and-tone)
+- [Voice and Tone](004-voice-and-tone)
 
 ## Extra
 
